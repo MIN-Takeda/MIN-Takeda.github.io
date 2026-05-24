@@ -54,3 +54,9 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 # Defaults
+
+# 新規追加：バナーをページ化する設定
+Collections:
+  banners:
+    output: twitter_username
+    permalink: /banners/:path/
