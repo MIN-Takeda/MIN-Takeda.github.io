@@ -1,7 +1,7 @@
 ---
 layout: banner-detail
 title: "本のキャンペーン用"
-image: "/assets/images/20260502_book.png"
+image: "/assets/images/works/20260502_book.png"
 ---
 
 ### 制作コンセプト

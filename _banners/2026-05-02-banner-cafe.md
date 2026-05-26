@@ -1,7 +1,7 @@
 ---
 layout: banner-detail
 title: "老人とCAFFE"
-image: "/assets/images/20260502_cafe.png"
+image: "/assets/images/works/20260502_cafe.png"
 ---
 
 ### 制作コンセプト

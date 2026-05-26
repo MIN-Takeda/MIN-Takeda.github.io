@@ -1,7 +1,7 @@
 ---
 layout: banner-detail
 title: "夕焼けと鯉のぼり"
-image: "/assets/images/20260505_Koinobori.png"
+image: "/assets/images/works/20260505_Koinobori.png"
 ---
 
 ### 制作コンセプト
