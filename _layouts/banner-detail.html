@@ -1,0 +1,19 @@
+---
+layout: default
+---
+<article>
+  <h2>{{ page.title }}</h2>
+  <p class="post-time">クライアント: {{ page.client }}</p>
+  
+  <div class="banner-image-large" style="margin: 20px 0; text-align: center;">
+    <img src="{{ page.image }}" style="max-width: 100%; border-radius: 8px;">
+  </div>
+
+  <div class="banner-meta" style="background: #f1f5f9; padding: 15px; border-radius: 8px;">
+    <p><strong>使用ツール:</strong> {{ page.tools }}</p>
+  </div>
+
+  <div style="margin-top: 25px;">
+    {{ content }}
+  </div>
+</article>

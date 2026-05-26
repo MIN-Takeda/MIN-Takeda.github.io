@@ -56,7 +56,7 @@ plugins:
 # Defaults
 
 # 新規追加：バナーをページ化する設定
-Collections:
+collections:
   banners:
-    output: twitter_username
+    output: true
     permalink: /banners/:path/
